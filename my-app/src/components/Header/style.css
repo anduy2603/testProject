@@ -1,0 +1,29 @@
+.header-infor {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(224, 212, 212);
+  height: 30px;
+  align-items: center;
+  text-align: center;
+}
+.hotline {
+  padding-left: 20px;
+}
+.account {
+  padding-right: 20px;
+}
+.header-nav{
+  display: flex;
+  background-color: rgb(46, 42, 42);
+  color: aliceblue;
+  align-items: center;
+  height: 50px;
+}
+.header-nav img {
+  width: 185px;
+  height: 30px;
+}
+.header-nav a{
+  color: white;
+  text-decoration: none;
+}
